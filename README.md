@@ -1,5 +1,5 @@
 # Newsletter Mailing List Form
-### Built with React
+### Built with [React](https://github.com/facebook/react) and [MaterialUI](https://github.com/mui-org/material-ui)
 This is a front end implementation of an email signup form. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
