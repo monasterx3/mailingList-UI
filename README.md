@@ -1,5 +1,5 @@
 # Newsletter Mailing List Form
-### Built with [React](https://github.com/facebook/react) and [MaterialUI](https://github.com/mui-org/material-ui)
+### Built with [React](https://github.com/facebook/react), [React Spring](https://github.com/react-spring/react-spring) and [MaterialUI](https://github.com/mui-org/material-ui)
 This is a front end implementation of an email mailing list form. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
